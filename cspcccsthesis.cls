@@ -41,11 +41,14 @@
 \counterwithout{table}{chapter}
 \RequirePackage[font=bf]{caption}
 
+
 %additional package
 %\RequirePackage{subfig}
 %\RequirePackage{cleveref}
 \usepackage{float}
 \usepackage{adjustbox}
+\usepackage{tabularx} % ilagay sa preamble
+
 
 % Define bibliofont command
 \newcommand{\bibliofont}{\normalfont}

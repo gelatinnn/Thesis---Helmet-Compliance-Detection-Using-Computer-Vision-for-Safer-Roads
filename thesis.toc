@@ -25,3 +25,29 @@
 \contentsline {section}{Gap Bridged of the Study}{25}{section*.21}%
 \contentsline {section}{\centering Notes}{26}{section*.21}%
 \contentsline {chapter}{\numberline {3}Methodology}{30}{chapter.3}%
+\contentsline {subsection}{Data Collection}{40}{subsection*.28}%
+\contentsline {subsection}{Data Preprocessing}{41}{subsection*.29}%
+\contentsline {subsection}{Model Training}{41}{subsection*.30}%
+\contentsline {subsection}{Vehicle Filtering}{41}{subsection*.31}%
+\contentsline {subsection}{Helmet Detection}{41}{subsection*.32}%
+\contentsline {subsection}{Real-time Monitoring}{41}{subsection*.33}%
+\contentsline {subsection}{Real-time Violation Alert}{41}{subsection*.34}%
+\contentsline {subsection}{Computer Vision Theory}{47}{subsection*.38}%
+\contentsline {subsection}{Automated Law Enforcement Theory}{48}{subsection*.39}%
+\contentsline {subsection}{Surveillance Theory}{48}{subsection*.40}%
+\contentsline {subsection}{Real-Time Embedded Systems Theory}{48}{subsection*.41}%
+\contentsline {section}{\centering Notes}{49}{subsection*.41}%
+\contentsline {chapter}{\numberline {4}Results and Discussion}{50}{chapter.4}%
+\contentsline {chapter}{\numberline {5}Conclusion}{51}{chapter.5}%
+\contentsline {chapter}{Bibliography}{52}{section*.44}%
+\global \c@tocdepth 1\relax 
+\contentsline {chapter}{Appendices}{57}{section*.46}%
+\renewcommand {\cftsecpresnum }{Appendix }
+\renewcommand {\cftsecnumwidth }{5.75em}
+\renewcommand {\cftsecaftersnum }{:}
+\begingroup \let \l@chapter \l@section \let \l@section \l@subsection 
+\contentsline {chapter}{\numberline {A}Language Editing Certification}{58}{appendix.a.A}%
+\contentsline {chapter}{\numberline {B}Secretary's Certification}{59}{appendix.a.B}%
+\contentsline {chapter}{\numberline {C}JOINT AFFIDAVIT OF UNDERTAKING (Plagiarism)}{60}{appendix.a.C}%
+\endgroup 
+\contentsline {chapter}{Vita}{61}{appendix*.47}%
